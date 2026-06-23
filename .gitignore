@@ -1,0 +1,52 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Executable files
+server
+server.exe
+client
+client.exe
+query
+query.exe
+
+# Data files
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.pro.user
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+Debug/
+Release/
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
